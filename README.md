@@ -13,7 +13,7 @@
   <br>
 
   <p>
-    <a href="https://codeberg.org/danilo-delbusso">
+    <a href="https://codeberg.org/dbus">
       <img src="https://img.shields.io/badge/go_to_codeberg-204a87?style=for-the-badge&logo=codeberg&logoColor=white" alt="codeberg" />
     </a>
   </p>
